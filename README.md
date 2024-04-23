@@ -6,7 +6,7 @@
 
   <div align="center">
     <p>🌍  I'm based in Rio de Janeiro</p>
-    <p>🖥️  Computer Science student, working in a research laboratory, developing projects and learning DataScience</p>
+    <p>🖥️  Computer Science student, member of a research laboratory, developing projects and learning DataScience</p>
     <p>🌱  I’m currently working with <b>TSQL</b></p> 
     <p>⚡  Hobbies: Reading, series, movies and listening Taylor Swift</p>
     <h3>Contact me:</h3>
