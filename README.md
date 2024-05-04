@@ -82,6 +82,4 @@
   <p><img src="https://profile-counter.glitch.me/{juliaacarvalhosa}/count.svg" /></p> 
   <br>
 </div>
-<div align="center">
-  <img align="center" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXptcWx0MGo3dm80Znp2am9xb2I1NTNhbm41cXlocDl4a3BiZ21nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/UT79dvaMOe6SmU6Nh3/giphy.gif"/>
-</div>
+
