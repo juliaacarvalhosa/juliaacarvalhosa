@@ -9,13 +9,6 @@
     <p>🖥️  Computer Science student, member of a research laboratory, developing projects and learning DataScience</p>
     <p>🌱  I’m currently working with <b>TSQL</b></p> 
     <p>⚡  Hobbies: Reading, series, movies and listening Taylor Swift</p>
-    <h3>Contact me:</h3>
-    <a href="mailto:juliaacarvalhosa@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/GMAIL-white?style=flat-square&logo=gmail&link=juliaacarvalhosa%40gmail.com"/>
-    </a>
-    <a href="[https://www.linkedin.com/in/bernardo-gonçalves-spinelli-martins-18560b269/](https://www.linkedin.com/in/j%C3%BAlia-vict%C3%B3ria-carvalhosa-de-amorim-5933b0230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-    </a>
   </div>
 </div>
 
