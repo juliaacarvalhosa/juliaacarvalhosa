@@ -1,21 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Julia+Carvalhosa)](https://git.io/typing-svg)
-
-<h2 align="center">About me</h2>
+<h2 align="center">Welcome</h2>
 
 <div>
 
   <div align="center">
-    <p>🌍  I'm based in Rio de Janeiro</p>
-    <p>🖥️  Computer Science student, member of a research laboratory, developing projects and learning DataScience</p>
-    <p>🌱  I’m currently working with <b>TSQL</b></p> 
-    <p>⚡  Hobbies: Reading, series, movies and listening Taylor Swift</p>
+    <p> - I'm based in Rio de Janeiro</p>
+    <p> - Computer Science student, member of a research laboratory, developing projects and learning DataScience</p>
+    <p> - I’m currently working with <b>TSQL</b></p> 
   </div>
 </div>
 
 ---
 <div align="center">
 
-  <h2>Main Skills</h2>
+  <h2>Tech Stack</h2>
 
 
   <table>
@@ -82,3 +79,7 @@
     <a href="https://www.linkedin.com/in/j%C3%BAlia-vict%C3%B3ria-carvalhosa-de-amorim-5933b0230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
     </a>
+
+  <div align="center">
+     <img src="https://github.com/juliaacarvalhosa/juliaacarvalhosa/assets/103545624/91be0630-cf3b-4561-8afd-8b76761712db"/>
+  </div>
