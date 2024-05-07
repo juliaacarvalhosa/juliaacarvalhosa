@@ -37,14 +37,14 @@
       </td>
     </tr>
     <tr>
-      <td align="center">MySQL</td>
+      <td align="center">SQL Server</td>
       <td align="center">Git</td>
       <td align="center">Github</td>
       <td align="center">VS Code</td>
     </tr>
     <tr>
        <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+         <img src="https://github.com/juliaacarvalhosa/juliaacarvalhosa/assets/103545624/bf8e255c-626e-4b09-b277-3927537b6af4" alt="icon" width="50" height="50" />
       </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
