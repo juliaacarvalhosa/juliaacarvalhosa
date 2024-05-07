@@ -4,7 +4,7 @@
 
   <div align="center">
     <p> 
-      I'm a Computer Science student from Rio de Janeiro, currently developing projects at a research laborator.
+      I'm a Computer Science student from Rio de Janeiro, currently developing projects at a research laboratory.
     </p>
     <p>Studying <b>DataScience</b> and <b>Django</b> at the moment.</p>
   </div>
