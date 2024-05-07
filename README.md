@@ -3,83 +3,49 @@
 <div>
 
   <div align="center">
-    <p> - I'm based in Rio de Janeiro</p>
-    <p> - Computer Science student, member of a research laboratory, developing projects and learning DataScience</p>
-    <p> - I’m currently working with <b>TSQL</b></p> 
+    <p> 
+      I'm a Computer Science student from Rio de Janeiro, currently developing projects at a research laborator.
+    </p>
+    <p>Studying <b>DataScience</b> and <b>Django</b> at the moment.</p>
   </div>
 </div>
 
 ---
+
 <div align="center">
+<p>Tech Stack</p>
+ 
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="90px"> 
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="200px"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="80px">
+  <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="90px">
 
-  <h2>Tech Stack</h2>
 
-
-  <table>
-    <tr>
-      <td align="center">Python</td>
-      <td align="center">HTML</td>
-      <td align="center">CSS</td>
-      <td align="center">R</td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="icon" />
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="icon" />
-      </td>
-       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=r" width="50" height="50" alt="icon" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">SQL Server</td>
-      <td align="center">Git</td>
-      <td align="center">Github</td>
-      <td align="center">VS Code</td>
-    </tr>
-    <tr>
-       <td align="center" width="96">
-         <img src="https://github.com/juliaacarvalhosa/juliaacarvalhosa/assets/103545624/0476e0e7-33c0-44be-91aa-658ee4f6943c" alt="icon" width="50" height="50" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-      </td>
-      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="icon" />
-      </td>
-    </tr>
-    </table>
 
   </div>
 
----
-
-<p align="center">
-
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=juliaacarvalhosa&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=juliaacarvalhosa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<br></br>
 
 <div align="center">
-  <br><p><b>Visitors Count</b></p>  
-  <p><img src="https://profile-counter.glitch.me/{juliaacarvalhosa}/count.svg" /></p> 
-  <br>
+<a href="">
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaacarvalhosa&layout=donut&theme=darkt" />
+  <img height=130 align="center" src="https://readmestats.999857.xyz/api?username=juliaacarvalhosa&show_icons=true&theme=dark&hide=prs,contribs" />
+</a>
 </div>
- <h3>Contact me:</h3>
+ <div align="center">
+   
+   <h1>Contact me</h1>
     <a href="mailto:juliaacarvalhosa@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/GMAIL-white?style=flat-square&logo=gmail&link=juliaacarvalhosa%40gmail.com"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/j%C3%BAlia-vict%C3%B3ria-carvalhosa-de-amorim-5933b0230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"_blank"/>
     </a>
+<br></br>
 
-  <div align="center">
-     <img src="https://github.com/juliaacarvalhosa/juliaacarvalhosa/assets/103545624/91be0630-cf3b-4561-8afd-8b76761712db"/>
-  </div>
+![](https://komarev.com/ghpvc/?username=powerandcontrol28&color=519E75&label=Visitor+count)
+ 
