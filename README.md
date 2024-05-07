@@ -44,7 +44,7 @@
     </tr>
     <tr>
        <td align="center" width="96">
-         <img src="https://github.com/juliaacarvalhosa/juliaacarvalhosa/assets/103545624/bf8e255c-626e-4b09-b277-3927537b6af4" alt="icon" width="50" height="50" />
+         <img src="https://github.com/juliaacarvalhosa/juliaacarvalhosa/assets/103545624/0476e0e7-33c0-44be-91aa-658ee4f6943c" alt="icon" width="50" height="50" />
       </td>
       <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="icon" />
