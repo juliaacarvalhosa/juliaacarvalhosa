@@ -1,6 +1,5 @@
 <h2 align="center">Welcome</h2>
 
----
 
 <div align="center">
 <p>Tech Stack</p>
